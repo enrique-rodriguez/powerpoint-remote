@@ -1,0 +1,7 @@
+{
+    "short_name": "Remote",
+    "name": "Powerpoint Remote",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
